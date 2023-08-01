@@ -1,0 +1,11 @@
+E:\1Visual Repository\progress bar\progress bar\bin\Debug\progress bar.exe.config
+E:\1Visual Repository\progress bar\progress bar\bin\Debug\progress bar.exe
+E:\1Visual Repository\progress bar\progress bar\bin\Debug\progress bar.pdb
+E:\1Visual Repository\progress bar\progress bar\obj\Debug\progress bar.csproj.AssemblyReference.cache
+E:\1Visual Repository\progress bar\progress bar\obj\Debug\progress bar.csproj.SuggestedBindingRedirects.cache
+E:\1Visual Repository\progress bar\progress bar\obj\Debug\progress_bar.Form1.resources
+E:\1Visual Repository\progress bar\progress bar\obj\Debug\progress_bar.Properties.Resources.resources
+E:\1Visual Repository\progress bar\progress bar\obj\Debug\progress bar.csproj.GenerateResource.cache
+E:\1Visual Repository\progress bar\progress bar\obj\Debug\progress bar.csproj.CoreCompileInputs.cache
+E:\1Visual Repository\progress bar\progress bar\obj\Debug\progress bar.exe
+E:\1Visual Repository\progress bar\progress bar\obj\Debug\progress bar.pdb
